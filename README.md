@@ -22,3 +22,6 @@ I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BornNSK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
