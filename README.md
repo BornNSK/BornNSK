@@ -10,6 +10,8 @@
     <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" alt="Telegram Chat" height="30"/>
   </a>
 
+---
+
 I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk, Russia.
 
 ---
