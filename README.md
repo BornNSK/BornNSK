@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/igor-evsyukov-722059a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
   <a href="https://t.me/@Born_NSK">
-    <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" alt="Telegram Chat" height="40"/>
+    <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" alt="Telegram Chat" height="30"/>
   </a>
   
 </div>
