@@ -9,11 +9,6 @@
   <a href="https://t.me/@Born_NSK">
     <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" alt="Telegram Chat" height="30"/>
   </a>
-  
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BornNSK&style=flat-square&color=blue" alt=""/>
-</div>
 
 I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk, Russia.
 
