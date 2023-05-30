@@ -6,6 +6,10 @@
   <a href="https://www.linkedin.com/in/igor-evsyukov-722059a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t.me/@Born_NSK">
+    <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" alt="Telegram Chat"/>
+  </a>
+  
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BornNSK&style=flat-square&color=blue" alt=""/>
